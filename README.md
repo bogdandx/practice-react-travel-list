@@ -1,1 +1,3 @@
-# practice-react-travel-list
+Far Away Travel List
+
+![screenshot](screenshot.png)
